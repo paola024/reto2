@@ -1,0 +1,91 @@
+.textocompleto{
+    background: linear-gradient(to left, pink, purple);
+    background-color: blueviolet;
+    font-family: sans-serif;
+}
+.s1{
+    display: flex;
+    text-align: center;
+}
+.principal__boton{
+    width:200px;
+    height: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: yellow;
+    font-size: 20px;
+    font-family: sans-serif;
+    border: none;
+    border-radius: 5%;
+    cursor:pointer; 
+    
+}
+.bloque1{
+    margin-top: 20px;
+    display: flex;
+}
+.infoblo1{
+    width: 66%;
+    height: 200px;
+    background-image: url(tacospixel.jpg);
+}
+.bloque2{
+    margin-top: 60px;
+}
+.titulo1{
+    text-align: center;
+    margin-left: 20px;
+    width: 170px;
+    background-color: yellow;
+}
+.taco1{
+    text-align: center;
+    margin-left: 20px;
+    width: 140px;
+    background-color: yellow;
+}
+.bloque3{
+    text-align: center;
+    margin-left: 45px;
+}
+.s221{
+    height: 85px;
+    width: 400px;
+    background-color: yellow;
+}
+.h1s221{
+    margin-top: 10px;
+    font-size: 20px;
+}
+.s3{
+    display: flex;
+    text-align: center;
+}
+.s31{
+    background-color: white;
+    height: 180px;
+    margin: auto;
+    width: 350px;
+    margin-top: 20px;
+}
+.imgs31{
+    margin-top: 10px;
+}
+.fototacogrande{
+    display: flex;
+    background-color: white;
+    width: 99%;
+    margin: auto;
+    margin-top: 20px;
+}
+.tacograndetexto{
+    margin-left: 20px;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.buts42{
+    background-color: yellow;
+    color: rgb(121, 121, 0);
+    width: 120px;
+    height: 50px;
+}
